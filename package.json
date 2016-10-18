@@ -1,7 +1,7 @@
 {
-  "name": "giphy-example-link-resolver",
+  "name": "twitch-link-resolver",
   "version": "0.0.1",
-  "description": "Giphy link resolver for Mixmax",
+  "description": "Twitch link resolver for Mixmax",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git://github.com/mixmaxhq/giphy-example-link-resolver.git"
   },
-  "author": "Chanpory Rith <chanpory@mixmax.com> (https://mixmax.com/)",
+  "author": "Shawn Janas <janasshawn@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mixmaxhq/giphy-example-link-resolver/issues"
