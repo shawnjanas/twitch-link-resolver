@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mixmaxhq/giphy-example-link-resolver.git"
+    "url": "git://github.com/shawnjanas/twitch-link-resolver.git"
   },
   "author": "Shawn Janas <janasshawn@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mixmaxhq/giphy-example-link-resolver/issues"
   },
-  "homepage": "https://github.com/mixmaxhq/giphy-example-link-resolver",
+  "homepage": "https://github.com/shawnjanas/twitch-link-resolver",
   "dependencies": {
     "body-parser": "^1.12.2",
     "cors": "^2.7.1",
